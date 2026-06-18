@@ -1,0 +1,2 @@
+"""Streamlit EDA dashboard package."""
+
